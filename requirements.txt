@@ -1,0 +1,7 @@
+# Dependencias para el Gestor Profesional de Contraseñas Seguras
+# Autor: Christian Lera
+# Instalación: pip install -r requirements.txt
+
+pandas>=1.3.0
+openpyxl>=3.0.9
+pyperclip>=1.8.2
